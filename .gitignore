@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Trace result
+trace.tga
+
+#Added by cargo
+#
+#already existing elements are commented out
+
+/target
+**/*.rs.bk
